@@ -1,13 +1,15 @@
 Bits Lottery Contract
-Tools : node , ganache , web4
+Tools : node , ganache , web3
+
+Pre deployment instrctions 
+1.Download ganache
+2.Copy the mnemonic  in the deploy.js file
 
 RUN INSTRCUTIONS
 
-GIT CLONE 
-NPM INSTALL
-NODE deploy.js
+1.GIT CLONE 
+2.NPM INSTALL
+3.NODE deploy.js
 
 
-Other instructions
-download ganache
-copy the mnemonic  in the deploy.js file
+
