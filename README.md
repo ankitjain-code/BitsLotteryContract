@@ -2,9 +2,11 @@ Bits Lottery Contract
 Tools : node , ganache , web4
 
 RUN INSTRCUTIONS
+
 GIT CLONE 
 NPM INSTALL
 NODE deploy.js
+
 
 Other instructions
 download ganache
